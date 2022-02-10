@@ -1,0 +1,4 @@
+$errortest
+#writeme
+$errortest
+@3000

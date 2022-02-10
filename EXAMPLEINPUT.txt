@@ -1,0 +1,10 @@
+!_WINDOWS_+_R_
+#notepad
+!_ENTER_
+@10000
+#Sorry for that 10 second wait.
+!_ENTER_
+#But now you can see me in action!
+!_ENTER_
+#LOOK AT THIS THING GO
+$THE SCRIPTWRITER WILL IGNORE THIS LINE

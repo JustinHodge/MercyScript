@@ -1,0 +1,9 @@
+!_windows_+_r_
+@1000
+#cmd
+@1000
+!_ENTER_
+#ipconfig
+!_ENTER_
+@2000
+#ping 8.8.8.8
